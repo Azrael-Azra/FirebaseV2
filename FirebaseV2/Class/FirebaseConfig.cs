@@ -8,6 +8,7 @@ namespace FirebaseV2.Class
 {
     public static class FirebaseConfig
     {
+        //For FireBase Keys 
         public static string ApiKey = "AIzaSyCp78IHSWWzfwwzDJgs0-g50U156HDgK8c";
         public static string AuthDomain = "verification-cd722.firebaseapp.com";
         public static string DatabaseUrl = "https://verification-cd722-default-rtdb.firebaseio.com";
