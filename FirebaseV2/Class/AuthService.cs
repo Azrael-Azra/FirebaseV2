@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace FirebaseV2.Class
 {
+//For Acount Creration and Sign In Make Sure the Authentication is on also with the Realtime Database
     public class AuthService
     {
         private FirebaseAuthProvider _authProvider;
